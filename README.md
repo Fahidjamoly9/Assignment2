@@ -7,8 +7,8 @@
 **Semester:** A
 
 ## **Submitting Students**
-- Name: [Fahid Jamoly]
-- ID: [206403271]
+- Name: [Fahid Jamoly][diana hbous]
+- ID: [206403271][322911892]
 
 ## **Assignment Overview**
 This assignment focuses on understanding the internal structure of a running program and the role of the operating system in managing resources. It includes:
